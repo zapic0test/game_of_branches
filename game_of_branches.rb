@@ -4,7 +4,7 @@ class GameOfBranches
   end
 
   def who_is_the_hand?
-
+    Ned
   end
 
   def who_fucks_Cersei?
