@@ -8,7 +8,7 @@ class GameOfBranches
   end
 
   def who_fucks_Cersei?
-
+    Jaime
   end
 
 end
